@@ -1,0 +1,40 @@
+.hp-container {
+  background-color: #0a0b0c;
+  padding: 50px;
+  margin: 0 60px;
+  color: #fff;
+}
+.hero {
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+  background-color: #0a0b0c;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 72px;
+  font-weight: bold;
+  letter-spacing: 10px;
+}
+.hero h2 {
+  font-size: 18px;
+}
+.hero button {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: #272142;
+  background-color: #fff;
+  border-radius: 50px;
+  padding: 18px 30px;
+}
+.piece-title {
+  font-size: 24px;
+}
+.homepage-text {
+  font-family: "Roboto", sans-serif;
+}
+@media (max-width: 900px) {
+  .hero h1 {
+    font-size: 42px;
+    letter-spacing: none;
+  }
+}
