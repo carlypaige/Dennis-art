@@ -1,7 +1,6 @@
 .hp-container {
   background-color: #0a0b0c;
-  padding: 50px;
-  margin: 0 60px;
+  padding: 60px;
   color: #fff;
 }
 .hero {
@@ -13,7 +12,10 @@
 .hero h1 {
   font-size: 72px;
   font-weight: bold;
-  letter-spacing: 10px;
+  letter-spacing: 7px;
+}
+.header {
+  font-size: 24px;
 }
 .hero h2 {
   font-size: 18px;
