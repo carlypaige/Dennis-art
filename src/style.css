@@ -15,9 +15,6 @@
   font-weight: bold;
   letter-spacing: 7px;
 }
-.hero p {
-  font-size: 24px;
-}
 .hero h2 {
   font-size: 18px;
 }
@@ -36,9 +33,6 @@
 .homepage-text {
   font-family: "Roboto", sans-serif;
   font-size: 24px;
-}
-.about-page-text {
-  padding-left: 50px;
 }
 @media (max-width: 900px) {
   .hero h1 {
