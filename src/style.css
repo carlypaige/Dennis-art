@@ -1,5 +1,4 @@
-.hp-container,
-.ap-container {
+.page-container {
   background-color: #0a0b0c;
   padding: 60px;
   color: #fff;
@@ -30,7 +29,7 @@
   font-size: 24px;
   font-weight: lighter;
 }
-.homepage-text {
+.page-text {
   font-family: "Roboto", sans-serif;
   font-size: 24px;
 }
@@ -42,7 +41,7 @@
   .piece-title {
     font-size: 18px;
   }
-  .homepage-text {
+  .page-text {
     font-size: 16px;
   }
 }
@@ -52,8 +51,7 @@
     padding-top: 15px;
     letter-spacing: none;
   }
-  .hp-container,
-  .ap-container {
+  .page-container {
     margin: none;
   }
 }
