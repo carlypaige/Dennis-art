@@ -1,6 +1,7 @@
 :root {
   --primary-color: #838383;
   --secondary-color: #1f1a35;
+  --link-color: #abd3c1;
   --primary-font: "Roboto", sans-serif;
 }
 .page-container {
@@ -51,10 +52,6 @@
 .contact h2 {
   font-size: 24px;
 }
-.contact a {
-  text-decoration: none;
-  color: var();
-}
 footer {
   margin: 0 100px;
 }
@@ -66,6 +63,12 @@ footer a {
 }
 footer a:hover {
   color: #b2e8d0;
+}
+footer .bottom-tag {
+  font-size: 16px;
+}
+footer .bottom-tag-link {
+  color: var(--link-color);
 }
 @media (max-width: 900px) {
   .hero h1,
