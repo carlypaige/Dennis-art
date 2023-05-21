@@ -7,9 +7,6 @@
 body {
   background-color: #0a0b0c;
 }
-.container-fluid {
-  --bs-gutter-x: 0;
-}
 .page-container {
   background-color: #0a0b0c;
   padding: 60px 100px;
