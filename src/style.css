@@ -4,6 +4,9 @@
   --link-color: #abd3c1;
   --primary-font: "Roboto", sans-serif;
 }
+body {
+  background-color: #0a0b0c;
+}
 .page-container {
   background-color: #0a0b0c;
   padding: 60px 100px;
