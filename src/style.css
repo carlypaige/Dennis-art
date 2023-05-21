@@ -15,6 +15,9 @@ body {
 .page-container p {
   font-size: 24px;
 }
+.letters-inbetween-text {
+  font-size: 18px;
+}
 .hero {
   font-family: "Roboto", sans-serif;
   color: var(--primary-color);
